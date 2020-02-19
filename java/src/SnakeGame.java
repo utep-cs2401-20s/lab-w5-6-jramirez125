@@ -11,7 +11,7 @@ public class SnakeGame {
         }
 
 
-    
+
 
 
     public void partSnake(int x){
